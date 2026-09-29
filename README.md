@@ -1,5 +1,5 @@
 # Compact Programming Course: Python
-
+FH Dortmund Digital Transformation
 Python exercises and assignments for the Compact Programming Course at FH Dortmund.
 
 ## Week 1
@@ -33,4 +33,4 @@ PythonWeek1/
     ├── Task3.py
     ├── Task4.py
     └── Task5.py
-FH Dortmund Digital Transformation
+
