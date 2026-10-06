@@ -18,6 +18,29 @@ Python exercises and assignments for the Compact Programming Course at FH Dortmu
 - Task 4: Convert a list of strings into a list of lists using `map()`
 - Task 5: Store and filter Dortmund events using a dictionary
 
+## Week 3
+
+### NumPy
+
+- Create and manipulate NumPy arrays and vectors
+- Work with random arrays and matrices
+- Normalize matrices and perform matrix multiplication
+- Work with dates and integer extraction
+- Create structured arrays
+- Calculate distances, matrix rank, row means, and block sums
+- Sort arrays by columns
+
+### Pandas
+
+- Read CSV files into DataFrames
+- Work with indexes and columns
+- Modify data based on conditions
+- Find and replace missing values
+- Sort and exchange columns
+- Merge DataFrames
+- Create histograms
+- Create correlation matrices
+
 ## Repository Structure
 
 ```text
